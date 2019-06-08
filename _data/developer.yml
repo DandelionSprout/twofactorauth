@@ -542,7 +542,7 @@ websites:
       img: taigaio.png
       tfa: No
       
-    - name: TranslateWiki
+    - name: Translatewiki
       url: https://translatewiki.net
       img: translatewiki.png
       tfa: Yes
